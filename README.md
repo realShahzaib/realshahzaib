@@ -48,13 +48,6 @@
 <br />
 <br />
 
-<br>
-
-![Profile views](https://gpvc.arturio.dev/realshahzaib)
-![GitHub License](https://img.shields.io/github/license/realshahzaib/realshahzaib?style=flat)
-
-</br>
----
 
 ## 🔗 Know more about me 
 
@@ -62,3 +55,9 @@
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:Contact.ShahzaibAli@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/realshahzaibali/)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/realshahzaibali/)
+
+<br>
+
+![GitHub License](https://img.shields.io/github/license/realshahzaib/realshahzaib?style=flat)
+
+</br>
