@@ -7,7 +7,7 @@
 
  Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-
+- My Mostly Repositories are private if wan to see that - ping me anytime
 - 👨‍🎓 21 year old Computer Science Undergrad student.
 - 📱 Mobile App developer - Native IOS & Android Enthusiast.
 - 👨‍💻 Mostly working on ❤️Native Android ❤️Java 🔥Firebase!
