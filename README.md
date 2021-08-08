@@ -8,7 +8,7 @@
  Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - Major Repositories are private if anyone want to see that - ping me anytime
-- - 🙋‍♂️ Active DSC Lead at [FUUAST Islamabad ][dsccui]
+- 🙋‍♂️ Active DSC Lead at FUUAST Islamabad
 - 👨‍🎓 21 year old Computer Science Undergrad student.
 - 📱 Mobile App developer - Native IOS & Android Enthusiast.
 - 👨‍💻 Mostly working on ❤️Native Android ❤️Java 🔥Firebase!
