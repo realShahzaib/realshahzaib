@@ -10,10 +10,11 @@
 - Major Repositories are private if anyone want to see that - ping me anytime
 - 🙋‍♂️ Active DSC Lead at FUUAST Islamabad
 - 👨‍🎓 21 year old Computer Science Undergrad student.
-- 📱 Mobile App developer - Native IOS & Android Enthusiast.
-- 👨‍💻 Mostly working on ❤️Native Android ❤️Java 🔥Firebase!
+-   Data Scientist 
+- 👨‍💻 Mostly Working o Natural Language Processing 
 - 🌐 exploring cloud computing too.
 - ✍️ Write blogs on [www.programmertalks.com](https://www.programmertalks.com).
+- My Kaggle Profile : [Shahzaib Ali](https://www.kaggle.com/iamshahzaibali)
 - Loves hiphop .
 - Proud Muslim.
 
