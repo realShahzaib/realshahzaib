@@ -2,7 +2,7 @@
 
 <div class="icons">
   <a href="https://kaggle.com/iamshahzaibali">
-    <img align="left" alt="Kaggle" width="16px" src="assets/kaggle-brands.svg](https://raw.githubusercontent.com/kozistr/kozistr/b8cded88db809959a553ac4ab03058c98a11a01d/assets/kaggle-brands.svg" />
+    <img align="left" alt="Kaggle" width="16px" src="https://en.wikipedia.org/wiki/Kaggle#/media/File:Kaggle_logo.png" />
   </a>
   <a href="https://www.linkedin.com/in/realshahzaibali/">
     <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
