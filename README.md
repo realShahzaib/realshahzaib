@@ -1,65 +1,21 @@
-# I'm [Shahzaib Ali](https://www.programmertalks.com) 🙋‍♂️
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![Profile views](https://gpvc.arturio.dev/realshahzaib)
-
-
-
-
- Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
-- Major Repositories are private if anyone want to see that - ping me anytime
-- 🙋‍♂️ Active DSC Lead at FUUAST Islamabad
-- 👨‍🎓 21 year old Computer Science Undergrad student.
--   Data Scientist 
-- 👨‍💻 Mostly Working o Natural Language Processing 
-- 🌐 exploring cloud computing too.
-- ✍️ Write blogs on [www.programmertalks.com](https://www.programmertalks.com).
-- My Kaggle Profile : [Shahzaib Ali](https://www.kaggle.com/iamshahzaibali)
-- Loves hiphop .
-- Proud Muslim.
-
-  <br>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=realshahzaib&show_icons=true&count_private=true&include_all_commits=true&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realshahzaib&layout=compact)
-
-
-</br>
-
-
-<br/>
-
-#### Languages and Tools
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br/>
-
-#### Languages currently learning and working on
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="css3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="react native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<div class="icons">
+  <a href="https://kaggle.com/iamshahzaibali">
+    <img align="left" alt="Kaggle" width="16px" src="assets/kaggle-brands.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/realshahzaibali/">
+    <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+  <a href="https://medium.com/@shahzaibalidev">
+    <img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />
+  </a>
+  <br />
+</div>
 
 <br />
-<br />
+
+Hi! I'm Shahzaib Ali, Jr Machine Learning Engineer from Pakistan. 
+Feel free to contact me at the email `Contact.ShahzaibAli@gmail.com` :)
 
 
-## 🔗 Know more about me 
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://realshahzaib.github.io/Portfolio/)
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:Contact.ShahzaibAli@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/realshahzaibali/)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/realshahzaibali/)
-
-<br>
-
-![GitHub License](https://img.shields.io/github/license/realshahzaib/realshahzaib?style=flat)
-
-</br>
